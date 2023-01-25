@@ -1,0 +1,34 @@
+body {
+    background-color:#F1F7ED; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+svg , #slider-time{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+text {
+    font-family: 'Comfortaa', cursive;
+}
+
+.header {
+    color: #243E36;
+    font-family: 'Comfortaa', cursive;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.bar {
+    fill: #7CA982;
+  
+}
+.max{
+    fill:#C2A83E
+}
+
+.tick{
+    color: #243E36;
+    font-size: 12px;
+}
